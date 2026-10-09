@@ -2,9 +2,9 @@
 
 Turn any video or lecture into clear insights. Paste a YouTube link or upload an audio/video file, and get a **transcript, summary, action items, key decisions and open questions**, then **chat with the video** using Retrieval-Augmented Generation (RAG).
 
-<!-- Add a screenshot after you upload it to this repo, then remove the comment markers:
+
 ![App screenshot](screenshot.png)
--->
+
 
 ## ✨ Features
 
